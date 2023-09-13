@@ -1,0 +1,246 @@
+FECHA;CODIGO DE USUARIO;Tipo de Negocio;Producto;UBICACION 1 ;MONTO POR CALLE 1
+5/6/2023;6.3;Servicio de Gas;Gas;Av. Pablo Zamora;$5 a $10 dolares
+6/6/2023;6.3;Servicio de Gas;Gas;Av. Pablo Zamora;$5 a $10 dolares
+7/6/2023;6.3;Servicio de Gas;Gas;Av. Pablo Zamora;$15 a $20 dolares
+8/6/2023;6.3;Servicio de Gas;Gas;Av. Pablo Zamora;$5 a $10 dolares
+9/6/2023;6.3;Servicio de Gas;Gas;Av. Pablo Zamora;$10 a $15 dolares
+10/6/2023;6.3;Servicio de Gas;Gas;Av. Pablo Zamora;$5 a $10 dolares
+11/6/2023;6.3;Servicio de Gas;Gas;Av. Pablo Zamora;$10 a $15 dolares
+5/6/2023;5.4;Servicio de Gas;Gas;Cordova;$10 a $15 dolares
+6/6/2023;5.4;Servicio de Gas;Gas;Cordova;$5 a $10 dolares
+7/6/2023;5.4;Servicio de Gas;Gas;Cordova;$10 a $15 dolares
+8/6/2023;5.4;Servicio de Gas;Gas;Cordova;$10 a $15 dolares
+9/6/2023;5.4;Servicio de Gas;Gas;Cordova;$5 a $10 dolares
+10/6/2023;5.4;Servicio de Gas;Gas;Cordova;$15 a $20 dolares
+11/6/2023;5.4;Servicio de Gas;Gas;Cordova;$15 a $20 dolares
+5/6/2023;1.4;Servicio de Gas;Gas;Callejon  Leonel Cedeno;$5 a $10 dolares
+6/6/2023;1.4;Servicio de Gas;Gas;Callejon  Leonel Cedeno;$5 a $10 dolares
+7/6/2023;1.4;Servicio de Gas;Gas;Callejon  Leonel Cedeno;$5 a $10 dolares
+8/6/2023;1.4;Servicio de Gas;Gas;Callejon  Leonel Cedeno;$5 a $10 dolares
+9/6/2023;1.4;Servicio de Gas;Gas;Callejon  Leonel Cedeno;$5 a $10 dolares
+10/6/2023;1.4;Servicio de Gas;Gas;Callejon  Leonel Cedeno;$5 a $10 dolares
+11/6/2023;1.4;Servicio de Gas;Gas;Callejon  Leonel Cedeno;$5 a $10 dolares
+5/6/2023;3.5;Servicio de Gas;Gas;Av. Ricaurte;$10 a $15 dolares
+6/6/2023;3.5;Servicio de Gas;Gas;Av. Ricaurte;$10 a $15 dolares
+7/6/2023;3.5;Servicio de Gas;Gas;Av. Ricaurte;$5 a $10 dolares
+8/6/2023;3.5;Servicio de Gas;Gas;Av. Ricaurte;$5 a $10 dolares
+9/6/2023;3.5;Servicio de Gas;Gas;Av. Ricaurte;$5 a $10 dolares
+10/6/2023;3.5;Servicio de Gas;Gas;Av. Ricaurte;$10 a $15 dolares
+11/6/2023;3.5;Servicio de Gas;Gas;Av. Ricaurte;$5 a $10 dolares
+5/6/2023;2.5;Servicio de Gas;Gas;Av. Ramos Iduarte;$35 a $40 dolares
+6/6/2023;2.5;Servicio de Gas;Gas;Av. Ramos Iduarte;$30 a $35 dolares
+7/6/2023;2.5;Servicio de Gas;Gas;Av. Ramos Iduarte;$35 a $40 dolares
+8/6/2023;2.5;Servicio de Gas;Gas;Av. Ramos Iduarte;Mas de $40 dolares
+9/6/2023;2.5;Servicio de Gas;Gas;Av. Ramos Iduarte;$35 a $40 dolares
+10/6/2023;2.5;Servicio de Gas;Gas;Av. Ramos Iduarte;$15 a $20 dolares
+11/6/2023;2.5;Servicio de Gas;Gas;Av. Ramos Iduarte;$15 a $20 dolares
+5/6/2023;7.4;Servicio de Gas;Gas;Av. Pedro Gual ;$5 a $10 dolares
+6/6/2023;7.4;Servicio de Gas;Gas;Av. Pedro Gual ;$10 a $15 dolares
+7/6/2023;7.4;Servicio de Gas;Gas;Av. Pedro Gual ;$20 a $25 dolares
+8/6/2023;7.4;Servicio de Gas;Gas;Av. Pedro Gual ;$15 a $20 dolares
+9/6/2023;7.4;Servicio de Gas;Gas;Av. Pedro Gual ;$10 a $15 dolares
+10/6/2023;7.4;Servicio de Gas;Gas;Av. Pedro Gual ;$10 a $15 dolares
+11/6/2023;7.4;Servicio de Gas;Gas;Av. Pedro Gual ;$20 a $25 dolares
+5/6/2023;4.5;Servicio de Gas;Gas;Av. Morales;$5 a $10 dolares
+6/6/2023;4.5;Servicio de Gas;Gas;Av. Morales;$5 a $10 dolares
+7/6/2023;4.5;Servicio de Gas;Gas;Av. Morales;$5 a $10 dolares
+8/6/2023;4.5;Servicio de Gas;Gas;Av. Morales;$15 a $20 dolares
+9/6/2023;4.5;Servicio de Gas;Gas;Av. Morales;$15 a $20 dolares
+10/6/2023;4.5;Servicio de Gas;Gas;Av. Morales;$5 a $10 dolares
+11/6/2023;4.5;Servicio de Gas;Gas;Av. Morales;$15 a $20 dolares
+5/6/2023;6.3;Servicio de Gas;Gas;Av. Reales Tamarindos;$10 a $15 dolares
+6/6/2023;6.3;Servicio de Gas;Gas;Av. Reales Tamarindos;$5 a $10 dolares
+7/6/2023;6.3;Servicio de Gas;Gas;Av. Reales Tamarindos;$5 a $10 dolares
+8/6/2023;6.3;Servicio de Gas;Gas;Av. Reales Tamarindos;$10 a $15 dolares
+9/6/2023;6.3;Servicio de Gas;Gas;Av. Reales Tamarindos;$5 a $10 dolares
+10/6/2023;6.3;Servicio de Gas;Gas;Av. Reales Tamarindos;$10 a $15 dolares
+11/6/2023;6.3;Servicio de Gas;Gas;Av. Reales Tamarindos;$5 a $10 dolares
+5/6/2023;5.4;Servicio de Gas;Gas;Colon;$10 a $15 dolares
+6/6/2023;5.4;Servicio de Gas;Gas;Colon;$10 a $15 dolares
+7/6/2023;5.4;Servicio de Gas;Gas;Colon;$15 a $20 dolares
+8/6/2023;5.4;Servicio de Gas;Gas;Colon;$5 a $10 dolares
+9/6/2023;5.4;Servicio de Gas;Gas;Colon;$10 a $15 dolares
+10/6/2023;5.4;Servicio de Gas;Gas;Colon;$15 a $20 dolares
+11/6/2023;5.4;Servicio de Gas;Gas;Colon;$15 a $20 dolares
+5/6/2023;1.4;Servicio de Gas;Gas;Orlando Ponce;$10 a $15 dolares
+6/6/2023;1.4;Servicio de Gas;Gas;Orlando Ponce;$5 a $10 dolares
+7/6/2023;1.4;Servicio de Gas;Gas;Orlando Ponce;$5 a $10 dolares
+8/6/2023;1.4;Servicio de Gas;Gas;Orlando Ponce;$5 a $10 dolares
+9/6/2023;1.4;Servicio de Gas;Gas;Orlando Ponce;$5 a $10 dolares
+10/6/2023;1.4;Servicio de Gas;Gas;Orlando Ponce;$5 a $10 dolares
+11/6/2023;1.4;Servicio de Gas;Gas;Orlando Ponce;$5 a $10 dolares
+5/6/2023;3.5;Servicio de Gas;Gas;Quiroga;$10 a $15 dolares
+6/6/2023;3.5;Servicio de Gas;Gas;Quiroga;$15 a $20 dolares
+7/6/2023;3.5;Servicio de Gas;Gas;Quiroga;$5 a $10 dolares
+8/6/2023;3.5;Servicio de Gas;Gas;Quiroga;$5 a $10 dolares
+9/6/2023;3.5;Servicio de Gas;Gas;Quiroga;$10 a $15 dolares
+10/6/2023;3.5;Servicio de Gas;Gas;Quiroga;$5 a $10 dolares
+11/6/2023;3.5;Servicio de Gas;Gas;Quiroga;$15 a $20 dolares
+5/6/2023;2.5;Servicio de Gas;Gas;Cesar Chavez Canarte;$25 a $30 dolares
+6/6/2023;2.5;Servicio de Gas;Gas;Cesar Chavez Canarte;$15 a $20 dolares
+7/6/2023;2.5;Servicio de Gas;Gas;Cesar Chavez Canarte;$20 a $25 dolares
+8/6/2023;2.5;Servicio de Gas;Gas;Cesar Chavez Canarte;$20 a $25 dolares
+9/6/2023;2.5;Servicio de Gas;Gas;Cesar Chavez Canarte;$30 a $35 dolares
+10/6/2023;2.5;Servicio de Gas;Gas;Cesar Chavez Canarte;Mas de $40 dolares
+11/6/2023;2.5;Servicio de Gas;Gas;Cesar Chavez Canarte;$10 a $15 dolares
+5/6/2023;7.4;Servicio de Gas;Gas;Av. Chile;$5 a $10 dolares
+6/6/2023;7.4;Servicio de Gas;Gas;Av. Chile;$15 a $20 dolares
+7/6/2023;7.4;Servicio de Gas;Gas;Av. Chile;$10 a $15 dolares
+8/6/2023;7.4;Servicio de Gas;Gas;Av. Chile;$5 a $10 dolares
+9/6/2023;7.4;Servicio de Gas;Gas;Av. Chile;$15 a $20 dolares
+10/6/2023;7.4;Servicio de Gas;Gas;Av. Chile;$10 a $15 dolares
+11/6/2023;7.4;Servicio de Gas;Gas;Av. Chile;$5 a $10 dolares
+5/6/2023;4.5;Servicio de Gas;Gas;Cordova;$10 a $15 dolares
+6/6/2023;4.5;Servicio de Gas;Gas;Cordova;$5 a $10 dolares
+7/6/2023;4.5;Servicio de Gas;Gas;Cordova;$5 a $10 dolares
+8/6/2023;4.5;Servicio de Gas;Gas;Cordova;$5 a $10 dolares
+9/6/2023;4.5;Servicio de Gas;Gas;Cordova;$10 a $15 dolares
+10/6/2023;4.5;Servicio de Gas;Gas;Cordova;$15 a $20 dolares
+11/6/2023;4.5;Servicio de Gas;Gas;Cordova;$10 a $15 dolares
+5/6/2023;6.3;Servicio de Gas;Gas;Joaquin Ramirez;$10 a $15 dolares
+6/6/2023;6.3;Servicio de Gas;Gas;Joaquin Ramirez;$15 a $20 dolares
+7/6/2023;6.3;Servicio de Gas;Gas;Joaquin Ramirez;$10 a $15 dolares
+8/6/2023;6.3;Servicio de Gas;Gas;Joaquin Ramirez;$10 a $15 dolares
+9/6/2023;6.3;Servicio de Gas;Gas;Joaquin Ramirez;$20 a $25 dolares
+10/6/2023;6.3;Servicio de Gas;Gas;Joaquin Ramirez;$10 a $15 dolares
+11/6/2023;6.3;Servicio de Gas;Gas;Joaquin Ramirez;$10 a $15 dolares
+5/6/2023;5.4;Servicio de Gas;Gas;Quiroga;$20 a $25 dolares
+6/6/2023;5.4;Servicio de Gas;Gas;Quiroga;$15 a $20 dolares
+7/6/2023;5.4;Servicio de Gas;Gas;Quiroga;$10 a $15 dolares
+8/6/2023;5.4;Servicio de Gas;Gas;Quiroga;$10 a $15 dolares
+9/6/2023;5.4;Servicio de Gas;Gas;Quiroga;$10 a $15 dolares
+10/6/2023;5.4;Servicio de Gas;Gas;Quiroga;$15 a $20 dolares
+11/6/2023;5.4;Servicio de Gas;Gas;Quiroga;$20 a $25 dolares
+5/6/2023;1.4;Servicio de Gas;Gas;Av. Los Amigos;$10 a $15 dolares
+6/6/2023;1.4;Servicio de Gas;Gas;Av. Los Amigos;$10 a $15 dolares
+7/6/2023;1.4;Servicio de Gas;Gas;Av. Los Amigos;$15 a $20 dolares
+8/6/2023;1.4;Servicio de Gas;Gas;Av. Los Amigos;$10 a $15 dolares
+9/6/2023;1.4;Servicio de Gas;Gas;Av. Los Amigos;$10 a $15 dolares
+10/6/2023;1.4;Servicio de Gas;Gas;Av. Los Amigos;$10 a $15 dolares
+11/6/2023;1.4;Servicio de Gas;Gas;Av. Los Amigos;$10 a $15 dolares
+5/6/2023;3.5;Servicio de Gas;Gas;Colon;$10 a $15 dolares
+6/6/2023;3.5;Servicio de Gas;Gas;Colon;$10 a $15 dolares
+7/6/2023;3.5;Servicio de Gas;Gas;Colon;$10 a $15 dolares
+8/6/2023;3.5;Servicio de Gas;Gas;Colon;$10 a $15 dolares
+9/6/2023;3.5;Servicio de Gas;Gas;Colon;$10 a $15 dolares
+10/6/2023;3.5;Servicio de Gas;Gas;Colon;$10 a $15 dolares
+11/6/2023;3.5;Servicio de Gas;Gas;Colon;$10 a $15 dolares
+5/6/2023;2.5;Servicio de Gas;Gas;Av. Paulo Emilio Macias;Mas de $40 dolares
+6/6/2023;2.5;Servicio de Gas;Gas;Av. Paulo Emilio Macias;$35 a $40 dolares
+7/6/2023;2.5;Servicio de Gas;Gas;Av. Paulo Emilio Macias;$25 a $30 dolares
+8/6/2023;2.5;Servicio de Gas;Gas;Av. Paulo Emilio Macias;$35 a $40 dolares
+9/6/2023;2.5;Servicio de Gas;Gas;Av. Paulo Emilio Macias;$15 a $20 dolares
+10/6/2023;2.5;Servicio de Gas;Gas;Av. Paulo Emilio Macias;$35 a $40 dolares
+11/6/2023;2.5;Servicio de Gas;Gas;Av. Paulo Emilio Macias;$20 a $25 dolares
+5/6/2023;7.4;Servicio de Gas;Gas;Calle 10 de Agosto;$10 a $15 dolares
+6/6/2023;7.4;Servicio de Gas;Gas;Calle 10 de Agosto;$10 a $15 dolares
+7/6/2023;7.4;Servicio de Gas;Gas;Calle 10 de Agosto;$20 a $25 dolares
+8/6/2023;7.4;Servicio de Gas;Gas;Calle 10 de Agosto;$20 a $25 dolares
+9/6/2023;7.4;Servicio de Gas;Gas;Calle 10 de Agosto;$15 a $20 dolares
+10/6/2023;7.4;Servicio de Gas;Gas;Calle 10 de Agosto;$15 a $20 dolares
+11/6/2023;7.4;Servicio de Gas;Gas;Calle 10 de Agosto;$25 a $30 dolares
+5/6/2023;4.5;Servicio de Gas;Gas;Av. Chile;$15 a $20 dolares
+6/6/2023;4.5;Servicio de Gas;Gas;Av. Chile;$20 a $25 dolares
+7/6/2023;4.5;Servicio de Gas;Gas;Av. Chile;$10 a $15 dolares
+8/6/2023;4.5;Servicio de Gas;Gas;Av. Chile;$10 a $15 dolares
+9/6/2023;4.5;Servicio de Gas;Gas;Av. Chile;$10 a $15 dolares
+10/6/2023;4.5;Servicio de Gas;Gas;Av. Chile;$15 a $20 dolares
+11/6/2023;4.5;Servicio de Gas;Gas;Av. Chile;$10 a $15 dolares
+5/6/2023;6.3;Servicio de Gas;Gas;Av. Chile ;$15 a $20 dolares
+6/6/2023;6.3;Servicio de Gas;Gas;Av. Chile ;$10 a $15 dolares
+7/6/2023;6.3;Servicio de Gas;Gas;Av. Chile ;$5 a $10 dolares
+8/6/2023;6.3;Servicio de Gas;Gas;Av. Chile ;$15 a $20 dolares
+9/6/2023;6.3;Servicio de Gas;Gas;Av. Chile ;$15 a $20 dolares
+10/6/2023;6.3;Servicio de Gas;Gas;Av. Chile ;$5 a $10 dolares
+11/6/2023;6.3;Servicio de Gas;Gas;Av. Chile ;$10 a $15 dolares
+5/6/2023;5.4;Servicio de Gas;Gas;Av. Morales;$10 a $15 dolares
+6/6/2023;5.4;Servicio de Gas;Gas;Av. Morales;$5 a $10 dolares
+7/6/2023;5.4;Servicio de Gas;Gas;Av. Morales;$5 a $10 dolares
+8/6/2023;5.4;Servicio de Gas;Gas;Av. Morales;$10 a $15 dolares
+9/6/2023;5.4;Servicio de Gas;Gas;Av. Morales;$5 a $10 dolares
+10/6/2023;5.4;Servicio de Gas;Gas;Av. Morales;$15 a $20 dolares
+11/6/2023;5.4;Servicio de Gas;Gas;Av. Morales;$20 a $25 dolares
+5/6/2023;1.4;Servicio de Gas;Gas;Av. Chile;$5 a $10 dolares
+6/6/2023;1.4;Servicio de Gas;Gas;Av. Chile;$5 a $10 dolares
+7/6/2023;1.4;Servicio de Gas;Gas;Av. Chile;$5 a $10 dolares
+8/6/2023;1.4;Servicio de Gas;Gas;Av. Chile;$5 a $10 dolares
+9/6/2023;1.4;Servicio de Gas;Gas;Av. Chile;$5 a $10 dolares
+10/6/2023;1.4;Servicio de Gas;Gas;Av. Chile;$5 a $10 dolares
+11/6/2023;1.4;Servicio de Gas;Gas;Av. Chile;$5 a $10 dolares
+5/6/2023;3.5;Servicio de Gas;Gas;Av. Morales;$5 a $10 dolares
+6/6/2023;3.5;Servicio de Gas;Gas;Av. Morales;$5 a $10 dolares
+7/6/2023;3.5;Servicio de Gas;Gas;Av. Morales;$5 a $10 dolares
+8/6/2023;3.5;Servicio de Gas;Gas;Av. Morales;$10 a $15 dolares
+9/6/2023;3.5;Servicio de Gas;Gas;Av. Morales;$5 a $10 dolares
+10/6/2023;3.5;Servicio de Gas;Gas;Av. Morales;$5 a $10 dolares
+11/6/2023;3.5;Servicio de Gas;Gas;Av. Morales;$5 a $10 dolares
+5/6/2023;2.5;Servicio de Gas;Gas;Av. America;Mas de $40 dolares
+6/6/2023;2.5;Servicio de Gas;Gas;Av. America;$25 a $30 dolares
+7/6/2023;2.5;Servicio de Gas;Gas;Av. America;Mas de $40 dolares
+8/6/2023;2.5;Servicio de Gas;Gas;Av. America;$30 a $35 dolares
+9/6/2023;2.5;Servicio de Gas;Gas;Av. America;$35 a $40 dolares
+10/6/2023;2.5;Servicio de Gas;Gas;Av. America;$15 a $20 dolares
+11/6/2023;2.5;Servicio de Gas;Gas;Av. America;$10 a $15 dolares
+5/6/2023;7.4;Servicio de Gas;Gas;Av. Olmedo;$5 a $10 dolares
+6/6/2023;7.4;Servicio de Gas;Gas;Av. Olmedo;$15 a $20 dolares
+7/6/2023;7.4;Servicio de Gas;Gas;Av. Olmedo;$5 a $10 dolares
+8/6/2023;7.4;Servicio de Gas;Gas;Av. Olmedo;$10 a $15 dolares
+9/6/2023;7.4;Servicio de Gas;Gas;Av. Olmedo;$10 a $15 dolares
+10/6/2023;7.4;Servicio de Gas;Gas;Av. Olmedo;$5 a $10 dolares
+11/6/2023;7.4;Servicio de Gas;Gas;Av. Olmedo;$20 a $25 dolares
+5/6/2023;4.5;Servicio de Gas;Gas;Av. Quito;$5 a $10 dolares
+6/6/2023;4.5;Servicio de Gas;Gas;Av. Quito;$5 a $10 dolares
+7/6/2023;4.5;Servicio de Gas;Gas;Av. Quito;$15 a $20 dolares
+8/6/2023;4.5;Servicio de Gas;Gas;Av. Quito;$5 a $10 dolares
+9/6/2023;4.5;Servicio de Gas;Gas;Av. Quito;$15 a $20 dolares
+10/6/2023;4.5;Servicio de Gas;Gas;Av. Quito;$5 a $10 dolares
+11/6/2023;4.5;Servicio de Gas;Gas;Av. Quito;$20 a $25 dolares
+5/6/2023;6.3;Servicio de Gas;Gas;Av. America;$5 a $10 dolares
+6/6/2023;6.3;Servicio de Gas;Gas;Av. America;$5 a $10 dolares
+7/6/2023;6.3;Servicio de Gas;Gas;Av. America;$15 a $20 dolares
+8/6/2023;6.3;Servicio de Gas;Gas;Av. America;$5 a $10 dolares
+9/6/2023;6.3;Servicio de Gas;Gas;Av. America;$10 a $15 dolares
+10/6/2023;6.3;Servicio de Gas;Gas;Av. America;$15 a $20 dolares
+11/6/2023;6.3;Servicio de Gas;Gas;Av. America;$5 a $10 dolares
+5/6/2023;5.4;Servicio de Gas;Gas;Av. Rocafuerte;$15 a $20 dolares
+6/6/2023;5.4;Servicio de Gas;Gas;Av. Rocafuerte;$15 a $20 dolares
+7/6/2023;5.4;Servicio de Gas;Gas;Av. Rocafuerte;$10 a $15 dolares
+8/6/2023;5.4;Servicio de Gas;Gas;Av. Rocafuerte;$15 a $20 dolares
+9/6/2023;5.4;Servicio de Gas;Gas;Av. Rocafuerte;$15 a $20 dolares
+10/6/2023;5.4;Servicio de Gas;Gas;Av. Rocafuerte;$25 a $30 dolares
+11/6/2023;5.4;Servicio de Gas;Gas;Av. Rocafuerte;$25 a $30 dolares
+5/6/2023;1.4;Servicio de Gas;Gas;Av. Paulo Emilio Macias;$5 a $10 dolares
+6/6/2023;1.4;Servicio de Gas;Gas;Av. Paulo Emilio Macias;$5 a $10 dolares
+7/6/2023;1.4;Servicio de Gas;Gas;Av. Paulo Emilio Macias;$5 a $10 dolares
+8/6/2023;1.4;Servicio de Gas;Gas;Av. Paulo Emilio Macias;$10 a $15 dolares
+9/6/2023;1.4;Servicio de Gas;Gas;Av. Paulo Emilio Macias;$5 a $10 dolares
+10/6/2023;1.4;Servicio de Gas;Gas;Av. Paulo Emilio Macias;$5 a $10 dolares
+11/6/2023;1.4;Servicio de Gas;Gas;Av. Paulo Emilio Macias;$5 a $10 dolares
+5/6/2023;3.5;Servicio de Gas;Gas;Sucre;$5 a $10 dolares
+6/6/2023;3.5;Servicio de Gas;Gas;Sucre;$5 a $10 dolares
+7/6/2023;3.5;Servicio de Gas;Gas;Sucre;$5 a $10 dolares
+8/6/2023;3.5;Servicio de Gas;Gas;Sucre;$5 a $10 dolares
+9/6/2023;3.5;Servicio de Gas;Gas;Sucre;$5 a $10 dolares
+10/6/2023;3.5;Servicio de Gas;Gas;Sucre;$5 a $10 dolares
+11/6/2023;3.5;Servicio de Gas;Gas;Sucre;$5 a $10 dolares
+5/6/2023;2.5;Servicio de Gas;Gas;Av. Olmedo ;Mas de $40 dolares
+6/6/2023;2.5;Servicio de Gas;Gas;Av. Olmedo ;Mas de $40 dolares
+7/6/2023;2.5;Servicio de Gas;Gas;Av. Olmedo ;Mas de $40 dolares
+8/6/2023;2.5;Servicio de Gas;Gas;Av. Olmedo ;Mas de $40 dolares
+9/6/2023;2.5;Servicio de Gas;Gas;Av. Olmedo ;$30 a $35 dolares
+10/6/2023;2.5;Servicio de Gas;Gas;Av. Olmedo ;$20 a $25 dolares
+11/6/2023;2.5;Servicio de Gas;Gas;Av. Olmedo ;Mas de $40 dolares
+5/6/2023;7.4;Servicio de Gas;Gas;Av. Ramos Iduarte ;$15 a $20 dolares
+6/6/2023;7.4;Servicio de Gas;Gas;Av. Ramos Iduarte ;$5 a $10 dolares
+7/6/2023;7.4;Servicio de Gas;Gas;Av. Ramos Iduarte ;$20 a $25 dolares
+8/6/2023;7.4;Servicio de Gas;Gas;Av. Ramos Iduarte ;$15 a $20 dolares
+9/6/2023;7.4;Servicio de Gas;Gas;Av. Ramos Iduarte ;$5 a $10 dolares
+10/6/2023;7.4;Servicio de Gas;Gas;Av. Ramos Iduarte ;$20 a $25 dolares
+11/6/2023;7.4;Servicio de Gas;Gas;Av. Ramos Iduarte ;$10 a $15 dolares
+5/6/2023;4.5;Servicio de Gas;Gas;Av. Olmedo ;$10 a $15 dolares
+6/6/2023;4.5;Servicio de Gas;Gas;Av. Olmedo ;$10 a $15 dolares
+7/6/2023;4.5;Servicio de Gas;Gas;Av. Olmedo ;$10 a $15 dolares
+8/6/2023;4.5;Servicio de Gas;Gas;Av. Olmedo ;$5 a $10 dolares
+9/6/2023;4.5;Servicio de Gas;Gas;Av. Olmedo ;$5 a $10 dolares
+10/6/2023;4.5;Servicio de Gas;Gas;Av. Olmedo ;$5 a $10 dolares
+11/6/2023;4.5;Servicio de Gas;Gas;Av. Olmedo ;$5 a $10 dolares
